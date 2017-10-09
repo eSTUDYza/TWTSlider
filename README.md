@@ -1,1 +1,1 @@
-# TWTSlider
+# TiAutoslider
